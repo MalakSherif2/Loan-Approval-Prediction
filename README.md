@@ -70,7 +70,7 @@ Due to class imbalance, the following metrics were prioritized:
 - F1-score  
 
 ---
-##Insights
+##  Insights
 
 
 Decision Tree was selected as the final model due to its superior F1-score (0.98).
