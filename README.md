@@ -65,8 +65,9 @@ Key analyses performed:
 
 Due to class imbalance, the following metrics were prioritized:
 
-- Precision  
-- Recall  
+- Accuracy  
+- Precision
+- Recall 
 - F1-score  
 
 ---
